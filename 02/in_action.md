@@ -4,7 +4,7 @@
 ![no updates](rvt_nRDC_no_updates.gif)
 
 #### script run with few updates.
-![no updates](rvt_nRDC_updates.gif)
+![updates](rvt_nRDC_updates.gif)
 
 As explained in [README.md](README.md) there are three standard 
 cases for voids, which are also demonstrated in the above GIF:
