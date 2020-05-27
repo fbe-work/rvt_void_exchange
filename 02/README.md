@@ -77,6 +77,12 @@ so it can be properly placed.
 * Void rotation is not implemented (yet).
 
 
+## in action
+
+To see animated GIFs of the script running, check out the [in_action](in_action.md)
+or the respective GIF files. Beware as the GIFs are heavy.
+
+
 -----
 
 nestedRvtDurchbruchCutter sent out to * 
