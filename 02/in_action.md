@@ -25,7 +25,7 @@ Additionally they receive a obsolete note with time stamp in
 their comments parameter, so they are easy to find in a schedule.
 
 #### existing
-Most of the voids in the above scrpt runs are existing voids with 
+Most of the voids in the above script runs are existing voids with 
 no external changes, so they are very quick to process.
 Their regular output looks like this:
 ```
