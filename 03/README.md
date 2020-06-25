@@ -8,12 +8,12 @@ A non-exhaustive list:
 * Data consistency
 * Geometric consistency
 * Reliable base for additional scripts - examples as shown below: 
-    * [void tagging](#void_tagging) 
-    * [void dimensioning](#void_dimensioning)
-    * [void checking](#void_checking)
+    * [void tagging](#tagging) 
+    * [void dimensioning](#dimensioning)
+    * [void checking](#checking)
 
 
-### void_tagging
+### tagging
 
 Below we see a script run to tag the specific void family. 
 Other than a regular tag-all, this script checks the height 
@@ -27,7 +27,7 @@ manually.
 ![void_tagging](rvt_void_tagging.gif)
 
 
-### void_dimensioning
+### dimensioning
 
 Here we see scripted dimensioning. Similar to the script 
 above, it takes into account the height of the void. 
@@ -38,7 +38,7 @@ attached to specific grids left needed to be done manually.
 
 ![void_dimensioning](rvt_void_dimensioning.gif)
 
-### void_checking
+### checking
 
 Many simple conditions af the countless voids in a model 
 can be detected programmatically as shown in this demo:
