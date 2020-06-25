@@ -20,9 +20,9 @@ annotation for stable voids can be kept.
 
 When searching through the link for voids, there are three standard cases:
 
-* **obsolete**: uncut and comment local void as obsolete
-* **existing**: update local void data only, re-cut if needed
-* **new void**: create, cut local void, timestamp & write data
+* [**obsolete**](#obsolete): uncut and comment local void as obsolete
+* [**existing**](#existing): update local void data only, re-cut if needed
+* [**new void**](#new-void): create, cut local void, timestamp & write data
 
 
 #### obsolete
@@ -77,7 +77,7 @@ so it can be properly placed.
 * Void rotation is not implemented (yet).
 
 
-## in action
+## [in action](in_action.md)
 
 To see animated GIFs of the script running, check out the [in_action](in_action.md)
 or the respective GIF files. Beware as the GIFs are heavy.
