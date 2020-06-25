@@ -9,8 +9,8 @@ A non-exhaustive list:
 * Geometric consistency
 * Reliable base for additional scripts - examples as shown below: 
     * [void tagging](#tagging) 
-    * [void dimensioning](#dimensioning)
-    * [void checking](#checking)
+    * [void dimensioning](dimensioning)
+    * [void checking](https://github.com/hdm-dt-fb/rvt_void_exchange/tree/master/03#checking)
 
 
 ### tagging
